@@ -1,2 +1,2 @@
 # production-Expense-app-mern
-Expense mern stack app
+Expense tracker mern stack app
